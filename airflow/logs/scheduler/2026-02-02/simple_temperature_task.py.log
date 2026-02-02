@@ -1,0 +1,70 @@
+[2026-02-02T08:22:20.854+0000] {processor.py:161} INFO - Started process (PID=33) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:22:20.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:22:20.858+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:22:20.857+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:22:21.760+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:22:21.786+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:22:21.786+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:22:21.806+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:22:21.806+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:22:21.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.978 seconds
+[2026-02-02T08:22:51.998+0000] {processor.py:161} INFO - Started process (PID=35) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:22:51.999+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:22:52.001+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:22:52.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:22:52.234+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:22:52.391+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:22:52.391+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:22:52.404+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:22:52.404+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:22:52.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.427 seconds
+[2026-02-02T08:23:22.578+0000] {processor.py:161} INFO - Started process (PID=37) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:23:22.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:23:22.581+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:23:22.580+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:23:22.825+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:23:22.852+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:23:22.851+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:23:22.869+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:23:22.869+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:23:22.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.311 seconds
+[2026-02-02T08:23:53.036+0000] {processor.py:161} INFO - Started process (PID=39) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:23:53.037+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:23:53.038+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:23:53.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:23:53.263+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:23:53.287+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:23:53.287+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:23:53.303+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:23:53.302+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:23:53.316+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.285 seconds
+[2026-02-02T08:24:23.476+0000] {processor.py:161} INFO - Started process (PID=90) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:24:23.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:24:23.479+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:24:23.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:24:23.730+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:24:23.760+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:24:23.759+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:24:23.778+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:24:23.777+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:24:23.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.322 seconds
+[2026-02-02T08:24:53.944+0000] {processor.py:161} INFO - Started process (PID=109) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:24:53.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:24:53.946+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:24:53.946+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:24:54.193+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:24:54.219+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:24:54.219+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:24:54.236+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:24:54.236+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:24:54.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.315 seconds
+[2026-02-02T08:25:24.412+0000] {processor.py:161} INFO - Started process (PID=111) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:25:24.413+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:25:24.415+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:25:24.414+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:25:24.666+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:25:24.694+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:25:24.694+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:25:24.713+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:25:24.713+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:25:24.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.442 seconds
+[2026-02-02T08:25:55.004+0000] {processor.py:161} INFO - Started process (PID=113) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:25:55.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:25:55.007+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:25:55.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:25:55.237+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:25:55.261+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:25:55.261+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:25:55.277+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:25:55.277+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:25:55.292+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.292 seconds
+[2026-02-02T08:26:25.444+0000] {processor.py:161} INFO - Started process (PID=115) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:26:25.445+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:26:25.447+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:26:25.446+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:26:25.679+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:26:25.704+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:26:25.704+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:26:25.719+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:26:25.719+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:26:25.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.294 seconds
+[2026-02-02T08:26:55.877+0000] {processor.py:161} INFO - Started process (PID=117) to work on /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:26:55.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/simple_temperature_task.py for tasks to queue
+[2026-02-02T08:26:55.880+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:26:55.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:26:56.106+0000] {processor.py:840} INFO - DAG(s) 'simple_temperature_task' retrieved from /opt/airflow/dags/simple_temperature_task.py
+[2026-02-02T08:26:56.129+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:26:56.129+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-02T08:26:56.144+0000] {logging_mixin.py:188} INFO - [2026-02-02T08:26:56.144+0000] {dag.py:3947} INFO - Setting next_dagrun for simple_temperature_task to None, run_after=None
+[2026-02-02T08:26:56.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/simple_temperature_task.py took 0.286 seconds
